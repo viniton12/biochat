@@ -7,7 +7,7 @@ from IPython.display import display, clear_output
 import ipywidgets as widgets
 
 # CONFIGURE SUA API KEY AQUI
-os.environ["GOOGLE_API_KEY"] = "AIzaSyB_4dVv2NLV8pkoLGMAibSvgLzCv-Zo6Ac"  # <-- substitua aqui
+os.environ["GOOGLE_API_KEY"] = ""  # <-- substitua aqui
 
 # Configurar Gemini
 api_key = os.getenv("GOOGLE_API_KEY")
