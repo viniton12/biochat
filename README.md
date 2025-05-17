@@ -3,7 +3,7 @@
 # **📝 Premiação Melhores Projetos**
 
 BioChat – Assistente Virtual de Biologia com Google Gemini
-![image](https://github.com/user-attachments/assets/11ee9b98-fe82-4aaf-9004-59d803fad6a3)
+![image](https://github.com/user-attachments/assets/b19901cf-8bbe-4027-875f-ac2d622f2917)
 
 
 🧬 Sobre o Projeto
