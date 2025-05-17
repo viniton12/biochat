@@ -1,17 +1,17 @@
 # biochat
 
-# **📝 Premiação Melhores Projetos**
+ **📝 Premiação Melhores Projetos**
 
 BioChat – Assistente Virtual de Biologia com Google Gemini
 ![image](https://github.com/user-attachments/assets/b19901cf-8bbe-4027-875f-ac2d622f2917)
 
 
-**🧬 Sobre o Projeto**
+# **🧬 Sobre o Projeto**
 BioChat é um assistente virtual inteligente voltado para estudantes, professores e entusiastas de biologia que desejam automatizar tarefas comuns de estudo e pesquisa, utilizando a poderosa API do Google Gemini. O BioChat consegue identificar espécies em textos científicos, gerar resumos curtos e criar questionários de múltipla escolha, facilitando o aprendizado e a revisão do conteúdo.
 
 Este projeto foi desenvolvido como parte da Imersão IA 2025, nas aulas 04 e 05, utilizando a API do Google Gemini para explorar processamento de linguagem natural em contexto educacional.
 
-**🚀 Funcionalidades**
+# **🚀 Funcionalidades**
 Identificação automática de espécies em textos científicos de biologia.
 
 Geração de resumos curtos para facilitar a compreensão rápida do conteúdo.
@@ -22,7 +22,7 @@ Chat interativo que responde a comandos específicos e perguntas livres sobre bi
 
 Uso obrigatório da Google API Key para autenticação e acesso ao modelo Gemini.
 
-**🛠 Tecnologias**
+# **🛠 Tecnologias**
 Python 3.8+
 
 Biblioteca google.generativeai (Google Gemini API)
@@ -31,7 +31,7 @@ Ambiente recomendado: Google Colab, Jupyter Notebook, ou terminal local
 
 Git & GitHub para versionamento e publicação do código
 
-**📋 Como Usar**
+# **📋 Como Usar**
 Clone o repositório:
 
 bash
@@ -85,7 +85,7 @@ biocchat/
 └── exemplos/           # Exemplos de textos para teste
     └── texto_teste.txt
     
-**📈 Exemplos de Uso**
+# **📈 Exemplos de Uso**
 less
 Copiar
 Editar
@@ -114,7 +114,7 @@ BioChat:
    b) Produtor
    c) Predador de topo
    d) Decompositor
-**🎯 Objetivos**
+# **🎯 Objetivos**
 Facilitar o estudo e a revisão de conteúdos em biologia.
 
 Demonstrar o uso da API do Google Gemini em projetos reais.
